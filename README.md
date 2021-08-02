@@ -13,7 +13,7 @@ In order to properly run our code you have to have installed:
   - pandas
   - pydot
   
-## How to run our code
+## How to use our program
 Since our code is written in a Jupyter Notebook, one can follow our code naturally by running every cell succesively.
 
   
